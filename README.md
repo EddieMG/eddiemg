@@ -1,5 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning reinforcement learning to apply to robotics.
 
+- 📫 eduardmgobierno@gmail.com
 <!--
 **EddieMG/eddiemg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
